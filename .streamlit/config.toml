@@ -1,0 +1,4 @@
+[server]
+port = 8501  # 必须使用 8501，Cloud 强制要求
+enableCORS = false
+headless = true
